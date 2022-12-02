@@ -1,1 +1,1 @@
-Edited first readme
+Shell basics
